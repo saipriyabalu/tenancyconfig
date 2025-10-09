@@ -1,4 +1,4 @@
-# Configure your OCI Tenancy for GenAI
+# Configure your OCI Tenancy for GenAI Agents
 
 ## **Introduction**
 
