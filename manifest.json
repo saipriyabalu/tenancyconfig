@@ -1,23 +1,14 @@
 {
     "tutorials": [
           {
-            "title": "Prerequisites",
-            "filename": "./prereq/prereq.md"
-          },
-
-          {
-            "title": "Lab 1: Configure the Requisition Skill on Oracle Digital Assistant",
-            "filename": "./configure-oda/1-configure-oda.md"
-          },
-          
-          {
-              "title": "Lab 2: Configure ODA on PeopleSoft FSCM Marketplace Instance",
-              "filename": "./configure-psft-with-oda/2-ODA-psft.md"
+            "title": "Prerequisites for configuring Generative AI",
+            "filename": "./prereq-genai/prereq-genai.md"
           },
           {
-            "title": "Lab 3: Test your Requisition Skill",
-            "filename": "./test-oda/3-test-oda.md"
+            "title": "Prerequisites for configuring Generative AI Agents",
+            "filename": "./prereq-genai-agents/prereq-genai-agents.md"
           }
+
 
 
     ]
