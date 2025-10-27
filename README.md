@@ -14,3 +14,19 @@ https://code-innovate.github.io/peoplesoft-oda-workshop/
 
 ## See an issue?
 Please submit feedback to codeinnovate\_us\_grp@oracle.com. Please include the *workshop name*, *lab* and *step* in your request.  If you don't see the workshop name listed, please enter it manually. If you would like for us to follow up with you, enter your email in the *Feedback Comments* section.
+
+
+## Try below policy 
+allow any-user to read database-tools-family in tenancy where any {request.principal.type=‘genaiagent’}
+allow any-user to read genai-agent-family in tenancy where any {request.principal.type=‘genaiagent’}
+allow any-user to read secret-bundle in tenancy where any {request.principal.type=‘genaiagent’}
+allow any-user to manage genai-agent-family in tenancy where any {request.principal.type=‘genaiagent’}
+allow any-user to manage object-family in tenancy where any {request.principal.type=‘genaiagent’}
+allow any-user to manage autonomous-database-family in tenancy where any {request.principal.type=‘genaiagent’}
+allow any-user to manage database-tools-connections in tenancy where any {request.principal.type=‘genaiagent’}
+
+
+
+
+
+

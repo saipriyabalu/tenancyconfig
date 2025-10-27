@@ -31,7 +31,7 @@ Estimated Time: 10 mins
 
 ## **Create a compartment** - optional
 
-1. Open the navigation menu  and select *Identity & Security*. Under *Identity*, select *Compartments*. A list of the compartments you have access to in the tenancy is displayed.
+1. Open the navigation menu  and select *Identity & Security*. Under *Identity*, select *Root Compartment*. A list of the compartments you have access to in the tenancy is displayed.
 
 2. Click *Create compartment* button. Enter the name, description and pick the parent compartment. Now select *Create compartment*.
 
@@ -43,7 +43,7 @@ Estimated Time: 10 mins
 
 ## **Create a dynamic group**
 
-1. Select your domain and navigate to *Dynamic Groups* and click *Create dynamic group*.
+1. Open the navigation menu  and select *Identity & Security*. Under *Identity*, select *Root Compartment*. Select your domain and navigate to *Dynamic Groups* and click *Create dynamic group*.
 
     ![](images/create-dynamic-group.png " ")
 
@@ -51,7 +51,7 @@ Estimated Time: 10 mins
 
     Name: genai-agent-dyn
     Description: Dynamic group for genai agents
-    Policy: _Refer to the previous step for the procedure copy the compartment ocid to the clipboard_
+    Policy: _Refer to the previous step for the procedure to copy the compartment ocid to the clipboard_
     ```
     <copy>
     resource.compartment.id ='<<compartment ocid>>'
