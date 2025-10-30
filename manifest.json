@@ -7,14 +7,6 @@
           {
             "title": "Prerequisites for configuring Generative AI Agents",
             "filename": "./prereq-genai-agents/prereq-genai-agents.md"
-          },
-          {
-            "title": "Langfuse Installation Guide",
-            "filename": "./configure-langfuse/3-configure-langfuse.md"
-          },
-          {
-            "title": "Configure Prometheus and Grafana",
-            "filename": "./configure-monitoring/4-configure-monitoring.md"
           }
 
 
