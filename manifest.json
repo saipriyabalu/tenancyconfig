@@ -1,12 +1,12 @@
 {
     "tutorials": [
           {
-            "title": "Prerequisites for configuring Generative AI",
-            "filename": "./prereq-genai/prereq-genai.md"
+            "title": "OCI Enterprise AI",
+            "filename": "./prereq-genai/prereq-enterpriseai.md"
           },
           {
-            "title": "Prerequisites for configuring Generative AI Agents",
-            "filename": "./prereq-genai-agents/prereq-genai-agents.md"
+            "title": "Supported APIs for OCI Enterprise AI",
+            "filename": "./SupportedAPIs/SupportedAPIs.md"
           }
 
 
