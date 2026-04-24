@@ -2,11 +2,11 @@
     "tutorials": [
           {
             "title": "OCI Enterprise AI",
-            "filename": "./prereq-genai/prereq-enterpriseai.md"
+            "filename": "./1-prereq-genai/prereq-enterpriseai.md"
           },
           {
             "title": "Supported APIs for OCI Enterprise AI",
-            "filename": "./SupportedAPIs/SupportedAPIs.md"
+            "filename": "./2-supported-apis/supported-apis.md"
           }
 
 
