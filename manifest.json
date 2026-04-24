@@ -7,8 +7,18 @@
           {
             "title": "Supported APIs for OCI Enterprise AI",
             "filename": "./2-supported-apis/supported-apis.md"
+          },
+          {
+            "title": "Model Import",
+            "filename": "./3-model-import/model-import.md"
+          },
+          {
+            "title": "DAC Benchmarking",
+            "filename": "./4-dac-benchmarking/dac-benchmarking.md"
+          },
+          {
+            "title": "Guardrails",
+            "filename": "./5-guardrails/guardrails.md"
           }
-
-
     ]
 }
